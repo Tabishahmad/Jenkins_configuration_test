@@ -20,4 +20,7 @@ class MainActivity : AppCompatActivity() {
     fun toCreateThirdBranch(){
         
     }
+    fun toCheckMerge_1(){
+
+    }
 }

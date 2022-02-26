@@ -23,4 +23,8 @@ class MainActivity : AppCompatActivity() {
     fun toCheckMerge_1(){
 
     }
+    fun checkMergerAgain1(){
+
+    }
+    
 }

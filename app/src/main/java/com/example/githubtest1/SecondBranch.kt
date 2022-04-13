@@ -7,5 +7,5 @@ fun secondBranch_jenkins(){
 
 }
 fun addnewFunction(){
-    //Hi hello
+    //Hi githum jenkins
 }
